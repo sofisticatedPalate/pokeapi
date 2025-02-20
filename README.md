@@ -13,13 +13,13 @@ minimum versions of node & npm needed:
 - node ^23.7.0
 - npm ^11.1.0
 
-1. Clone the repository:
+### NPM
 
 ```
-git clone https://github.com/sofisticatedPalate/pokeapi.git
+npm add https://github.com/sofisticatedPalate/pokeapi
 ```
 
-2. Install dependencies:
+Install dependencies:
 `npm install`
 
 >This SDK utilizes [Axios](https://axios-http.com) for handling calls to the API. This client is primarily used because of its built in behavior for parsing JSON responses and handling errors.
