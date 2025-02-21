@@ -24,9 +24,6 @@ Install dependencies:
 
 >This SDK utilizes [Axios](https://axios-http.com) for handling calls to the API. This client is primarily used because of its built in behavior for parsing JSON responses and handling errors.
 
-3. Build the SDK:
-`npm run build`
-
 ## Usage
 `getPokemon(idOrName: string | number)`
 
